@@ -1,0 +1,6 @@
+framework module Pods_LastTests {
+  umbrella header "Pods-LastTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
